@@ -1,0 +1,46 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  background-color: rgb(116, 133, 209);
+}
+
+h1 {
+  padding-left: 800px;
+  font-weight: 300;
+  color: rgba(165, 61, 61, 0.616);
+  font-family: fantasy;
+}
+#thai {
+  letter-spacing: 15px;
+  color: rgb(167, 1, 1);
+  font-family: fantasy;
+  font-weight: 300;
+  font-size: 60px;
+}
+
+.container {
+  position: relative;
+  overflow: auto;
+  float: left;
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+  background-color: white;
+  border: 5px solid rgb(255, 255, 255);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+/* img {
+  object-fit: cover;
+  position: absolute;
+  width: 400px;
+  height: 350px;
+} */
+
+p {
+  position: absolute;
+  width: 400px;
+  padding-top: 349px;
+  text-align: center;
+}
